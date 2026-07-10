@@ -1,4 +1,4 @@
-# demand-forecasting-skill
+# genpark-demand-forecasting-skill
 
 > **GenPark AI Agent Skill** -- Forecast product demand using historical sales, seasonality decomposition, and trend detection.
 
