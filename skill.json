@@ -1,8 +1,8 @@
 {
   "name": "demand-forecasting-skill",
   "version": "1.0.0",
-  "description": "Forecast product demand using historical sales data, seasonality patterns, and trend decomposition. Outputs weekly/monthly demand predictions and reorder recommendations.",
-  "author": "alphaparkinc",
+  "description": "GenPark AI Agent Skill - Forecast product demand using historical sales data, seasonality patterns, and trend decomposition. Outputs weekly/monthly demand predictions and reorder recommendations.",
+  "author": "genpark",
   "category": "analytics",
   "tags": [
     "forecasting",
